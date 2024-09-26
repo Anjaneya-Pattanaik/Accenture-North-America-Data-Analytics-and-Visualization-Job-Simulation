@@ -4,7 +4,7 @@
 **Role**: Data Analyst | Accenture North America Data Analytics and Visualization Job Simulation (Forage)
 **Date**: September 2024
 
--Cleaned, modeled, and analyzed 7 large datasets containing millions of data points to uncover trends in content engagement and popularity.
+-Cleaned, modeled, and analyzed 7 large datasets containing thousands of data points to uncover trends in content engagement and popularity.
 
 -Identified the top 5 content categories (Animals, Science, Healthy Eating, Technology, and Food) and analyzed optimal posting times based on engagement data.
 
